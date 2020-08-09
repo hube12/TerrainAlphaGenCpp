@@ -7,3 +7,4 @@ add_custom_command(TARGET Main POST_BUILD
 add_subdirectory(biome)
 add_subdirectory(heightmap)
 add_subdirectory(terrainGen)
+add_subdirectory(fullgen)
